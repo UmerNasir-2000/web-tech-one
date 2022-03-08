@@ -9,6 +9,7 @@
 5. Express.js
 6. jQuery
 7. React.js
+8. Git & Github
 
 ## Projects
 
